@@ -1,3 +1,3 @@
 # gostack-desafio-conceitos-nodejs
 
-Desafio desenvolvido no bootcamp GoStack com o intuito de fixar conceidos do Node.js.
+Desafio desenvolvido no bootcamp GoStack com o intuito de fixar conceitos do Node.js.
